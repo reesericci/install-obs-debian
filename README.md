@@ -1,5 +1,5 @@
-# install-obs
-This script installs all the dependencies that OBS needs and OBS itself (for ubuntu).
+# install-obs-debian
+This script installs all the dependencies that OBS needs and OBS itself (for debian + derviatives (ubuntu, elementary, etc).
 # How to use the install-obs script: 
 1. download the install-obs file
 2. move it to the home directory
